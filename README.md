@@ -17,6 +17,7 @@ go run main.go
 - [] Better reusability
 - [] More intuitive Main package
 - [] Implement Testing
+- [] Archive package to match website
 
  nice to haves
 - [] Learn Math?
