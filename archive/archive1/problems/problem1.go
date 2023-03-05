@@ -38,6 +38,6 @@ func IsItMultiple() {
 	fmt.Printf("Sum of multiples of 3: %d\n", threeMultipleSum)
 	fmt.Printf("Sum of multiples of 5: %d\n", fiveMultipleSum)
 
-	fmt.Printf("Sum of multiples for 3 and 5 under %d: %d\n", currentNumber, sumOfMultiples)
+	fmt.Printf("Sum of multiples for 3 and 5 under %d: %d\n\n", currentNumber, sumOfMultiples)
 
 }

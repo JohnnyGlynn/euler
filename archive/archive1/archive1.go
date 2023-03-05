@@ -9,10 +9,9 @@ import (
 )
 
 func Archive1() {
+	fmt.Print("\nArchive 1\n\n")
 	// Question 1
-	fmt.Print("Question 1\n")
 	problems.IsItMultiple()
 	// Question 2
-	fmt.Print("Question 2\n")
 	problems.EvenFibonacciNumbers()
 }
