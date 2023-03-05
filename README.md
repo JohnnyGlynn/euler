@@ -14,12 +14,12 @@ go run main.go
 
 - [x] Begin Go implementation of Project Euler questions
 - [x] Establish packages for reusability
-- [] Better reusability
-- [] More intuitive Main package
-- [] Implement Testing
-- [] Archive package to match website
+- [ ] Better reusability
+- [ ] More intuitive Main package
+- [ ] Implement Testing
+- [ ] Archive package to match website
 
  nice to haves
-- [] Learn Math?
-- [] Implement Static web server
+- [ ] Learn Math?
+- [ ] Implement Static web server
 

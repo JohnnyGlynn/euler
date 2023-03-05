@@ -13,5 +13,5 @@ func Archive1() {
 	// Question 1
 	problems.IsItMultiple()
 	// Question 2
-	problems.EvenFibonacciNumbers()
+	problems.EvenFibonacciNumbers(10)
 }
